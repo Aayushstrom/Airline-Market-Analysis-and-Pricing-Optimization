@@ -1,8 +1,8 @@
 Airline Market Analysis and Pricing Optimization Using Data Science Techniques
-Overview
+Overview:
 
 This project aims to provide a comprehensive analysis of the U.S. airline market using a dataset containing detailed flight and passenger information. It leverages data science techniques to assess trends in air travel demand, fare changes, market share, and travel behavior. The project also focuses on pricing optimization and route planning by developing predictive models and conducting economic impact studies.
-Table of Contents
+Table of Contents:
 
     Introduction
     Dataset
