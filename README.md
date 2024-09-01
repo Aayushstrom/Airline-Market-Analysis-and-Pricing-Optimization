@@ -15,11 +15,6 @@ Table of Contents:
         Travel Behavior Research
         Competitor Analysis
     Technologies Used
-    Installation
-    Usage
-    Results
-    Contributing
-    License
 
 Introduction
 
